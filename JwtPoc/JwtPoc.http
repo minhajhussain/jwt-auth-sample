@@ -1,0 +1,6 @@
+@JwtPoc_HostAddress = http://localhost:5180
+
+GET {{JwtPoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
